@@ -1,3 +1,35 @@
+
+
+
+      dev ----< freebie         "a dev has many freebies"
+
+
+      company -----< freebie    "a company has many freebies"
+
+
+      freebie >----- dev        "a freebie belongs to a dev"
+
+
+      freebie >----- company     "a freebie belongs to a company"
+
+
+
+
+
+              company ----< freebie >----- dev
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Phase 3 Mock Code Challenge: Freebie Tracker
 
 
