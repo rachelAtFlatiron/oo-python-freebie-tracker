@@ -26,7 +26,7 @@ class Company:
     def give_freebie( self, dev_instance, item_name, value ):
         Freebie( dev_instance, self, item_name, value )
 
-    # returns the Company instance with the earliest founding year.
+    # returns the Company instance with the earliest founding year
     @classmethod
     def oldest_company( cls ):
         earliest_year = 3000

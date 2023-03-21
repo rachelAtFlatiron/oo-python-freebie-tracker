@@ -1,5 +1,5 @@
 
-
+                            DOMAIN MODEL
 
       dev ----< freebie         "a dev has many freebies"
 
